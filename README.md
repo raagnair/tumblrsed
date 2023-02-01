@@ -9,9 +9,8 @@ There is also custom behavior for a calendly-powered contact page.
 Dowwnload index.html and search for "loremipsum" inside of it. Replace as necessary. 
 For example loremipsum.tumblr.com needs to be replaced with whatever your blog name is. 
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/7918609/215941698-2ba0d9f5-3605-4a34-9e54-d62d192eb2e6.png)
-![image](https://user-images.githubusercontent.com/7918609/215941724-677503bc-82f2-40f7-a132-b03311262718.png)
+## Screenshot
+![image](https://media.giphy.com/media/j8OPC4rhB2iVh3S8o3/giphy-downsized-large.gif)
 
 ## Caveats
 **SEO**
