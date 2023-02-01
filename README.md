@@ -9,5 +9,9 @@ There is also custom behavior for a calendly-powered contact page.
 Dowwnload index.html and search for "loremipsum" inside of it. Replace as necessary. 
 For example loremipsum.tumblr.com needs to be replaced with whatever your blog name is. 
 
+## Screenshots
+![image](https://user-images.githubusercontent.com/7918609/215941698-2ba0d9f5-3605-4a34-9e54-d62d192eb2e6.png)
+![image](https://user-images.githubusercontent.com/7918609/215941724-677503bc-82f2-40f7-a132-b03311262718.png)
+
 ## Caveats
 Predictably, since this creates the illusion of a blog from a single html file and a remote Tumblr blog, SEO doesn't work great. There may be optimizations available through the use of Tumblr tags, or metadata, but I have not investigated it yet. 
