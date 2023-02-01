@@ -14,4 +14,8 @@ For example loremipsum.tumblr.com needs to be replaced with whatever your blog n
 ![image](https://user-images.githubusercontent.com/7918609/215941724-677503bc-82f2-40f7-a132-b03311262718.png)
 
 ## Caveats
+**SEO**
 Predictably, since this creates the illusion of a blog from a single html file and a remote Tumblr blog, SEO doesn't work great. There may be optimizations available through the use of Tumblr tags, or metadata, but I have not investigated it yet. 
+
+**Blog post formatting**
+Customizing text or images inside of a blog post is not ergonomic at all, given that it is returned as raw HTML from the API. You can _still_ write raw HTML in the Tumblr post, and it will show up in your website, but the Tumblr editor will add many useless custom HTML artifacts for their own display purposes. WARNING -- if you open up a post that has custom HTML through Tumblr's wysiwyg editor, you'll corrupt your formatting.
